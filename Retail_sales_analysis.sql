@@ -1,3 +1,6 @@
+-- Author 
+-- Dhruv Bafna
+
 -- SQL Retail Sales Analysis - P1
 create database sql_project_p1;
 
